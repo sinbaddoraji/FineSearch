@@ -1,0 +1,11 @@
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\bin\Debug\FineSearch.exe.config
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\bin\Debug\FineSearch.exe
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\bin\Debug\FineSearch.pdb
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.csprojResolveAssemblyReference.cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.Form1.resources
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.Properties.Resources.resources
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.csproj.GenerateResource.Cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.csproj.CoreCompileInputs.cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.exe
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.pdb
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\FineSearch\FineSearch\obj\Debug\FineSearch.CustomMessageBox.resources
