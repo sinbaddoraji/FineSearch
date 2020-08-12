@@ -1,3 +1,1 @@
-# FineSearch
-A program to search for system files in realtime
-
+![Screenshot of FineSearch, (an application for searching a drive for a particular file or folder) in action](https://raw.githubusercontent.com/sinbaddoraji/FineSearch/master/Capture.PNG)**FineSearch an application for quickly searching through a directory or a file**
